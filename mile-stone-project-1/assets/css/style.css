@@ -4,12 +4,6 @@ span {
     color: #ffffff;
 }
 
-
-
-
-
-
-
 /*--------------------------------------------------------Header*/
 
 .header {
@@ -32,4 +26,5 @@ ul#nav {
 ul#nav li {
     display: inline; 
     padding-right: 3em;
+    text-decoration: none;
 }
