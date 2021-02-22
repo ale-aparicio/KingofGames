@@ -13,11 +13,11 @@
 
  .mainhead {
      width: 100%;
+     text-align: left;
      padding: 1.5em;
  }
 
  li a {
      font-family: 'Montserrat', sans-serif;
-     text-align: left;
      color: #ffffff;
  }
