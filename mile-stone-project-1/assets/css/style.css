@@ -26,10 +26,13 @@ ul#nav {
 ul#nav li {
     display: inline; 
     padding-right: 3em;
-    margin: 15px 40px;
-    background-color: #AD261D;
 }
 
 a {
     text-decoration: none;
+}
+
+.headitem {
+    margin: 15px 40px;
+    background-color: #AD261D;
 }
