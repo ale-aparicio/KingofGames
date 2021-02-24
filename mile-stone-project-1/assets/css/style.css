@@ -25,7 +25,7 @@ ul#nav {
 
 ul#nav li {
     display: inline; 
-    padding-right: 3em;
+    padding-right: em;
 }
 
 a {
@@ -35,4 +35,5 @@ a {
 .headitem {
     padding: 15px 40px;
     background-color: #AD261D;
+    border-radius: 5px;
 }
