@@ -25,7 +25,7 @@ ul#nav {
 
 ul#nav li {
     display: inline; 
-    padding-right: em;
+    padding-right: 1em;
 }
 
 a {
