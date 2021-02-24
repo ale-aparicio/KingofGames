@@ -35,5 +35,6 @@ a {
 .headitem {
     padding: 15px 40px;
     background-color: #AD261D;
+    text-align: middle;
     border-radius: 5px;
 }
