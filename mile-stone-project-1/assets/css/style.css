@@ -15,8 +15,6 @@ span {
 .mainhead {
     display: table;
     margin: 0 auto;
-    padding: 15px 40px 15px 40px;
-    background-color: #AD261D;
 }
 
 ul#nav {
@@ -28,6 +26,7 @@ ul#nav {
 ul#nav li {
     display: inline; 
     padding-right: 3em;
+    margin: 15px 40px;
 }
 
 a {
