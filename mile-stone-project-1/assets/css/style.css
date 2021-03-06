@@ -65,11 +65,13 @@ img {
 
 .btn-primary {
     background-color: #AD261D;
+    color: white;
     border: none;
 }
 
 .btn-primary:hover {
     background-color: #5C140F;
+    color: grey;
     border: none;
 }
 
