@@ -21,8 +21,8 @@
     background-color: #272727;
 }
 .header-block {
-    background-color: #272727;
-    padding: 5px;
+    background-color: #272727 !important;
+    padding: 20px;
 }
 /*--------------------------------------------------------------Footer*/
 .footerrows {
