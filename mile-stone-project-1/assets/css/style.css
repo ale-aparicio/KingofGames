@@ -36,6 +36,7 @@ img {
 }
 /*--------------------------------------------------------------Heading*/
 
+
 .navbar-brand img {
     max-height: 81px;
     border-radius: 5px;
@@ -109,5 +110,12 @@ img {
     .navbar-nav li {
         margin-top: 0;
         margin-bottom: 0;
-}
+    }
+    .box {
+    background-color: #272727;
+    padding: 15px;
+    margin: 1em 0 1em 0;
+    border: none;
+    border-radius: 5px;
+    }
 }
