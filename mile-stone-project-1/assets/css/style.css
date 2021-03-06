@@ -5,7 +5,9 @@
 
 /*-----------------------------------------------------------Special Paddings/Marigns/Texts*/
 
-
+.inline-block {
+    display: inline-block;
+}
 
 
 
