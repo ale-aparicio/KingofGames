@@ -14,7 +14,11 @@
 /*--------------------------------------------------------------Heading*/
 
 .navbar-brand {
-    font-family: "Cinzel",sans-serif;
+    
+}
+
+.navbar-brand img {
+    max-height: 81px;
 }
 
 .bg-color-footer {
