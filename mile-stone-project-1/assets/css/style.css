@@ -42,6 +42,7 @@ img {
     padding-inline-start: 10px;
     font-weight: bold;
     color: white;
+    border-radius: 5px;
 }
 
 /*--------------------------------------------------------------Heading*/
@@ -51,6 +52,9 @@ img {
     border-radius: 5px;
 }
 
+.nav-link span{
+    color: white;
+}
 .bg-color-footer {
     background-color: #272727;
 }
@@ -85,14 +89,59 @@ img {
 .footercols {
     font-family: "Montserrat",sans-serif;
     color: white;
+    margin-top: 10px;
 }
 
 .footercontainer {
      border: none;
 }
 
-.footer-brand {
-    font-family: "Cinzel",sans-serif;
+.explore {
+    font-family: "Montserrat",sans-serif;
+    list-style: none;
+    align-items: center;
+    padding: 5px;
+}
+
+.footer-link {
+    font-family: "Montserrat",sans-serif;  
+    color: white; 
+}
+
+.footer-link:hover {
+    font-family: "Montserrat",sans-serif;  
+    color: grey; 
+}
+
+.language-button {
+    font-family: "Montserrat",sans-serif;
+    padding: 5px 25px;
+    margin-top: 20px;
+    border-color: White;
+    border-radius: 5px;
+
+}
+
+.footer-brand img {
+    max-height: 120px;
+    border-radius: 5px;
+}
+
+.social-media{
+    list-style: none;
+    padding: 5px;
+}
+
+.social-links {
+    font-family: "Montserrat",sans-serif;
+    color: white;
+    list-style: none;
+    align-items: center;
+    padding: 5px;
+}
+
+.social-links:hover {
+    color: grey;
 }
 
 /*-------------------------------Card of the Day----*/
@@ -106,10 +155,7 @@ img {
     width: 30%;
 }
 
-
-
-
-
+/*----------------------------------Desktop Styling-----*/
 
 @media only screen and (min-width: 1024px){
 
