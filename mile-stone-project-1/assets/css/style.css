@@ -112,6 +112,10 @@ img {
         margin-bottom: 0;
     }
     .box {
-    margin: 1em 0 1em 0;
+    background-color: #272727;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
     }
 }
