@@ -14,4 +14,8 @@
 
 .nav-link {
   font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  background-color: #ad261d;
+  color: #ffffff;
 }
