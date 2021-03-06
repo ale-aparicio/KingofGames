@@ -6,12 +6,16 @@
     font-family: "Cinzel",sans-serif;
 }
 
+
+/*--------------------------------------------------------------Footer*/
 .footerrows {
     border: 3px solid white;
+    color: white;
 }
 
 .footercols {
     border: 3px solid red;
+    color: white;
 }
 
 .footercontainer {
