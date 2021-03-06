@@ -29,6 +29,10 @@
     background-color: #272727 !important;
     padding: 20px;
 }
+
+.btn-primary {
+    background-color: #AD261D;
+}
 /*--------------------------------------------------------------Footer*/
 .footerrows {
     color: white;
