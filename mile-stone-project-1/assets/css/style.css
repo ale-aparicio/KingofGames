@@ -111,11 +111,20 @@ img {
         margin-top: 0;
         margin-bottom: 0;
     }
+
     .box {
     background-color: #272727;
     padding-top: 15px;
     padding-bottom: 15px;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+    }
+
+    .heading-1,.heading-2 {
+    background-color: #AD261D;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
     }
 }
