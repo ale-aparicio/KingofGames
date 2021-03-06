@@ -36,7 +36,10 @@ img {
 
 .textpadd {
     background-color: #616161;
-    text-align: center;
+    font-family: "Montserrat",sans-serif;
+    margin: 0 1em 0 1em;
+    list-style: none;
+    padding-inline-start: 10px;
     font-weight: bold;
     color: white;
 }
