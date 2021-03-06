@@ -181,8 +181,19 @@ img {
     margin-bottom: 0.5em;
 }
 
+/*---------------------------------------Useful Guides----*/
 
+.guide-link {
+    font-family: "Montserrat",sans-serif;
+    color: white;
+    list-style: none;
+    align-items: center;
+    padding: 5px;
+}
 
+.guide-links:hover {
+    color: grey;
+}
 
 
 
