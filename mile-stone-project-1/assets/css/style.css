@@ -1,8 +1,18 @@
+/*----------------------------------------------------------------------------------Colors*/
+.bg-navbar-colors {
+    background-color: #272727;
+}
+
+
+
+
+
+
+/*----------------------------------------------------------------------------------Navbar*/
 .navbar {
   width: 100%;
   height: 100px;
   box-sizing: content-box;
-  background-color: #272727;
 }
 
 .navbar-brand {
