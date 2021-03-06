@@ -1,16 +1,4 @@
-
-
-
-
-
-
 /*----------------------------------------------------------------------------------Navbar*/
-.navbar {
-  width: 100%;
-  height: 100px;
-  box-sizing: content-box;
-}
-
 .navbar-brand {
     
   font-family: "Montserrat", sans-serif;
