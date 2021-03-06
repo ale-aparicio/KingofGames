@@ -157,6 +157,19 @@ img {
     width: 30%;
 }
 
+/*---------------------------------------Secondary Heading----*/
+
+.sec-head-btn {
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
 /*----------------------------------Desktop Styling-----*/
 
 @media only screen and (min-width: 1024px){
@@ -173,6 +186,7 @@ img {
     }
 
 /*---------------Desktop Default Items---*/
+
     .box {
         background-color: #272727;
         padding: 15px;
@@ -187,5 +201,11 @@ img {
         font-size: 40px;
         font-weight: bold;
         border-radius: 5px;
+    }
+
+    /*---------------Secondary Heading----*/
+
+    .sec-head-btn {
+        
     }
 }
