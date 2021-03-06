@@ -16,6 +16,7 @@
 }
 
 .footercols {
+    font-family: "Montserrat",sans-serif;
     border: 3px solid red;
     color: white;
 }
@@ -23,9 +24,4 @@
 .footercontainer {
      background-color: #272727;
      border: 3px solid #C4C4C4;
-}
-
-h3 {
-    font-family: "Montserrat",sans-serif;
-    font-weight: 200;
 }
