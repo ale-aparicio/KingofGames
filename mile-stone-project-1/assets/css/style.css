@@ -20,6 +20,10 @@
 .bg-color-footer {
     background-color: #272727;
 }
+.header-block {
+    background-color: #272727;
+    padding: 5px;
+}
 /*--------------------------------------------------------------Footer*/
 .footerrows {
     color: white;
