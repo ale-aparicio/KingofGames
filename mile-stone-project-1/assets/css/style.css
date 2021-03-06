@@ -39,6 +39,11 @@
     background-color: #5C140F;
     border: none;
 }
+
+.navbar-nav {
+    height: 81px;
+    width: 100%;
+}
 /*--------------------------------------------------------------Footer*/
 .footerrows {
     color: white;
