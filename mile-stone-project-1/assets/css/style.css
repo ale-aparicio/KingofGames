@@ -2,6 +2,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap');
 
+
+/*-----------------------------------------------------------Special Paddings/Marigns/Texts*/
+
+
+
+
+
 /*--------------------------------------------------------------Heading*/
 
 .navbar-brand {
@@ -13,13 +20,11 @@
 }
 /*--------------------------------------------------------------Footer*/
 .footerrows {
-    border: 1px solid greenyellow;
     color: white;
 }
 
 .footercols {
     font-family: "Montserrat",sans-serif;
-    border: 1px solid red;
     color: white;
 }
 
@@ -30,3 +35,4 @@
 .footer-brand {
     font-family: "Cinzel",sans-serif;
 }
+
