@@ -30,6 +30,7 @@ ul {
 .box-2-wrapper {
     background-color: #c4c4c4;
     padding: 10px;
+    margin: 1em 0 1em 0;
 }
 
 .box-2 {
@@ -74,6 +75,7 @@ p {
 .cardbox {
     margin-bottom: 0;
 }
+
 /*--------------------------------------------------------------Heading*/
 
 .navbar-brand img {
@@ -112,7 +114,9 @@ p {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
+
 /*--------------------------------------------------------------Footer*/
+
 .footerrows {
     color: white;
 }
