@@ -4,6 +4,16 @@
 
 
 /*-----------------------------------------------------------Special Paddings/Marigns/Texts*/
+li {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+} 
 
 .inline-block {
     display: inline-block;
@@ -15,6 +25,16 @@
     padding-bottom: 15px;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+}
+
+.box-2-wrapper {
+    background-color: #c4c4c4;
+    padding: 10px;
+}
+
+.box-2 {
+    background-color: #272727;
+    padding: 10px;
 }
 
 .heading-1,.heading-2 {
@@ -214,6 +234,17 @@ p {
 
 @media only screen and (min-width: 1024px){
 
+/*-------------------Special Padding------------*/
+    .box-2-wrapper {
+        background-color: #c4c4c4;
+        padding: 10px;
+}
+
+    .box-2 {
+        background-color: #272727;
+        padding: 10px;
+}
+
 /*-------------------Heading------------*/
 
      .navbar-nav {
@@ -233,6 +264,8 @@ p {
         margin: 1em 0 1em 0;
         border: 15px solid #c4c4c4;
     }
+
+
 
     .heading-1,.heading-2 {
         background-color: #AD261D;
@@ -267,4 +300,7 @@ p {
         margin-bottom: 1em;
     }
 
+    .carddescription {
+        font-size: medium;
+    }
 }
