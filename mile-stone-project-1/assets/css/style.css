@@ -47,7 +47,8 @@ img {
 }
 
 p {
-    margin: 3px;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 /*--------------------------------------------------------------Heading*/
@@ -154,12 +155,19 @@ p {
 /*-------------------------------Card of the Day----*/
 
 .cardimg {
-    margin: 10px;
-    width: 80%;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 3px;
 }
 
 .carddescription {
-    width: 30%;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    margin-top: 3px;
+    text-align: center;
+    line-height: 2em;
+    list-style: none;
 }
 
 /*---------------------------------------Secondary Heading----*/
@@ -239,5 +247,18 @@ p {
     .secondary-heading {
         padding-left: 20px;
         padding-right: 20px;
+    }
+
+    /*---------------Secondary Heading----*/
+    .cardimg {
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 3px;
+    }
+
+    .carddescriptiontext {
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 3px;
     }
 }
