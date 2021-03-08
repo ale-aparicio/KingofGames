@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap');
-
 
 /*-----------------------------------------------------------Special Paddings/Marigns/Texts*/
 li {
@@ -231,7 +228,6 @@ p {
 .guide-links:hover {
     color: grey;
 }
-
 
 
 /*----------------------------------Desktop Styling-----*/
