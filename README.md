@@ -55,3 +55,119 @@ a bright red (AD261D).
 
 ![Wireframe](wireframe.png)
 
+# Features
+
+* The project has 4 pages which the user can acess by clicking on the correct button in the heading.
+
+## Shared Features
+
+* All the pages share the same template to maximize the speed and efficiency of navigation.
+
+* All pages contain the content with their respective templates consisting of the above mentioned colors, paddings, and/or borders.
+
+* The About, Products and How to Play all share a secondary heading which in future updates will allow the user to delve deeper into 
+their respective subjects. 
+
+## Home Page 
+
+* The Home Page displays a large banner of the latest product to keep the user up to date.
+
+* For Entertainment and Interactive purposes I decided to add a Card of the Day which displays a card with an enlarged 
+description of the card.
+
+* To keep the users up to date with the latest news I added a latest news into the home page for quick acess. 
+
+## About Page 
+
+* The before mentioned secondary heading was added to the about page for future updates to the webpage.
+
+* To the left a nice welcome message is displayed here to encourage the user and introduce the user by gicing a brief explanation of what 
+the game is.
+
+* To the right another news display has been added this on although containing a little more news and events than the on at the home page.
+
+## Products Page
+
+* To the left of the screen is a product showcase displaying all the most recent aswell as upcoming products. 
+
+* To the right of the screen there is a news display but unlike the one of the other pages this one is stritcly used for 
+showing the most current product news. 
+
+## How To Play 
+
+* To the left of the screen we have a quick overview of the basic mechanics of the game aswell as a button which takes the user to an external rulebook
+where all the rules are explored in further detail making it essential for new players.
+
+* To the right the first display is an advertisement for online option of the YuGiOh in case the user is interested in having 
+a new and fresh experience. 
+
+* The second display to the right a quick link display which contains a link to a very useful tutorial of the rules and mechanics of the game.
+The second link contains a nice comedic video to introduce the user to fellow members of the YuGiOh community. 
+
+# Missing Features 
+
+* For the sake of keeping the project simple yet efficient I decided to not include the more in depth pages which would've
+been linked in the secondary heading.
+
+* The searchbar is currently out of work but in the future it will allow the user to search for keywords to make the navigation
+experience a much fluid and fast process. 
+
+* In the footer the Change Language button is out of service but in our journey to unite and bring as many people together 
+into this wonderful game the entire website will be available in different languages. 
+
+# Technologies Used 
+
+### HTML 5
+* The Language used to create the structure and content of the website.
+
+### CSS 
+* The Language used to style all the page adding character and vibrance to the website.
+
+### Bootstrap
+* The Skeleton used to create the template of the website aswell as to make the mobile-first approach much simpler and effective.
+
+### Figma 
+* Used to create the sketch and test ideas for the web design.
+
+### Font Awesome 
+* Used to add amazing icons that beautifully help decorate my website.
+
+### Google Fonts
+* Used to add the custom fonts for all the text used in the website.
+
+### W3C School
+* A life saver and quick guide to solve the most simple of problems like centering of [Buttons](https://www.w3schools.com/howto/howto_css_center_button.asp)
+aswell as [Styling Images](https://www.w3schools.com/css/css3_images.asp).
+
+### Stack Overflow
+* Great guide for more complex problems and questions like a quick guide for [Container Fluids](https://stackoverflow.com/questions/26204283/bootstrap-container-fluid-remove-margins-the-right-way-overflow)
+
+# Testing 
+
+* Speed of navigation when searching for the latest product news. Resuslts show a quick and smooth navigation experience helping the user
+not waste time while he is in the middle of a duel.
+
+* New Players have easy acess to all the information they need to get started and within a few clicks they are met with guides and 
+the official rulebook.
+
+## Validating the Code 
+
+* To ensure the smoothest experience I validated the code in for both [HTML](https://validator.w3.org/) aswell as 
+[CSS](https://jigsaw.w3.org/css-validator/)
+
+## Browsers 
+
+* Both me and my family tested the code in 
+ 1. Google Chrome
+ 2. Mozilla Firefox
+ 3. Safari
+ 4. Internet EWplorer
+
+ ## Responsiveness
+
+* The Responsiveness of the website was using both Google Developer Tools and family and friends who all tried the website
+ and gave me their feedback.
+
+ 
+
+
