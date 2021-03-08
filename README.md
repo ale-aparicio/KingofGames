@@ -168,10 +168,60 @@ the official rulebook.
 * The Responsiveness of the website was using both Google Developer Tools and family and friends who all tried the website
  and gave me their feedback.
 
- #Deployment
+ # Deployment
 
  * I created my project in Github and worked on my project using Gitpod.
 
- *My website is now live [Here]()
+ * My website is now live [Here](https://ale-aparicio.github.io/KingofGames/)
+ 
+ * If you have any doubts as to how to Deploy your project check this [Guide](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
+#Credits 
+
+## Content
+
+* My Project uses, bases, and is inspired by [YuGiOh!](https://www.yugioh.com/) 
+
+* A huge influence for the content and the layout was this [Page](https://www.yugioh-card.com/en/)
+
+* A minor influence for the colors and the structure was [Simply Unlucky](https://www.simplyunlucky.com/)
+
+## Media 
+
+* Most Images were taken from Google Images 
+
+### Home 
+
+* [The Logo](http://madal.com/konami/)
+
+* [Card Image](https://ygoprodeck.com/pics/46986414.jpg)
+
+* [Product Banner](https://seller.tcgplayer.com/media/5001/yugioh-blazing-vortex-banner-01.jpg)
+
+### Products 
+
+* [Ghost from the Past Banner](https://d1rw89lz12ur5s.cloudfront.net/photo/coretcg/file/37afbd98bcdd4882bb294978063d678f/Ghosts%20from%20the%20Past%20Banner.png)
+
+* [Legendary Duelist Banner](https://d1rw89lz12ur5s.cloudfront.net/photo/coretcg/file/37afbd98bcdd4882bb294978063d678f/Ghosts%20from%20the%20Past%20Banner.png)
+
+* [Freezing Chains Structure Deck](https://cdn.shopify.com/s/files/1/0303/2314/6845/products/Yu-Gi-Oh_---Freezing-Chains-Structure-Deck-Toasted-Magic-TCG-1606303354_7236a6fd-6268-4927-9dce-56cac6253d5b_1024x1024.jpg?v=1606303505)
+
+* [Blazing Vortex Product](https://meccha-japan.com/65313-large_default/display-blazing-vortex-yugioh-tcg-japan.jpg)
+
+### How to Play 
+
+* [Duel Links Banner](https://gamespecial.com/wp-content/uploads/2020/03/Yu-Gi-Oh-Duel-Links.jpg)
+
+# Acknowledgements
+
+* Thanks to my friends and family for pushing me and for their feedback on the website, their input was greatly appreciated.
+
+* Thanks to my Mentor Seun Owonikoko for guiding me and giving me important tips and critizism.
+
+* Last but not least Thanks to the Slack Community for answering my questions and clearing my doubts in my time of need.
+
+
+
+
 
 
