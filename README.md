@@ -168,6 +168,10 @@ the official rulebook.
 * The Responsiveness of the website was using both Google Developer Tools and family and friends who all tried the website
  and gave me their feedback.
 
- 
+ #Deployment
+
+ * I created my project in Github and worked on my project using Gitpod.
+
+ *My website is now live [Here]()
 
 
